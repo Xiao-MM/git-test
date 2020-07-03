@@ -5,4 +5,7 @@ public class MyFirstGit {
         System.out.println("hello git");
         System.out.println("hello git2");
     }
+    public void test(){
+        System.out.println("hhhh");
+    }
 }
